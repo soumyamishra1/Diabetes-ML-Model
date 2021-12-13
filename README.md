@@ -1,2 +1,2 @@
-# Diabetes-ML-Model-
+# Diabetes-ML-Model
 Diabetes Prediction Model
